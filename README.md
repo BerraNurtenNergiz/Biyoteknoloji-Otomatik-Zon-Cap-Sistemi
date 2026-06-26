@@ -15,4 +15,3 @@ Pillow (Görüntü dosyalarının açılması ve temel düzenleme işlemleri)
 Scikit-image & Scipy (İnhibisyon zonlarının radyal yoğunluk profili analizi ve hassas ölçümler)
 Pandas (Analiz verilerinin tablo haline getirilmesi ve yönetimi)
 Matplotlib (Analiz sonuçlarının grafiksel olarak gösterimi)
-## Candida Albicans Zon Ölçümleri

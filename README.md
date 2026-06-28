@@ -1,4 +1,4 @@
-# Biyoteknoloji-Otomatik-Zon-Cap-Sistemi
+# Biyoteknoloji Otomatik Zon Çapı Ölçüm Sistemi
 Bu proje, biyoteknolojik analizlerde kullanılan antibiyogram disklerinin inhibisyon zon çaplarını, manuel ölçüm hatalarını minimize ederek dijital olarak hesaplayan bir analiz protokolüdür. Gıda atıklarından (limon, portakal, mandalina) sentezlenen nanopartiküllerin antimikrobiyal etkinliğini değerlendirmek amacıyla geliştirilmiştir.
 ## Projenin Amacı
 Geleneksel manuel ölçüm yöntemlerindeki subjektif hata payını ortadan kaldırmak, laboratuvar verimliliğini artırmak ve klinik standartlarda tekrarlanabilir, objektif veriler elde etmektir.
